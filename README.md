@@ -1,6 +1,8 @@
 Hotel Reservations Web App and Service 
 ======================================
 
+[![Build Status](https://travis-ci.org/eoin18/reservations.svg?branch=master)](https://travis-ci.org/eoin18/reservations)
+
 Following the Lynda course ["Build your first Spring Data Repository with Spring Data JPA"](https://www.lynda.com/Web-tutorials/Build-your-first-Spring-Data-Repository-Spring-Data-JPA/550572/595804-4.html)
 
 #### Topics Covered:
